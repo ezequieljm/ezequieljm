@@ -40,6 +40,10 @@ greet = putStrLn "Hi everyone!!" >> greet
     <a href="https://www.vim.org/" target="_blank"> 
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> 
     </a> 
+   
+    <a href="https://www.archlinux.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Archlinux-icon-crystal-64.svg" alt="archlinux" width="40" height="40"/> 
+    </a> 
 </p>
 <!--
 
