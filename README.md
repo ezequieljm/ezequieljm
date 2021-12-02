@@ -41,6 +41,7 @@ greet = putStrLn "Hi everyone!!" >> greet
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> 
     </a> 
 </p>
+
 <!--
 
 **ezequieljm/ezequieljm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
