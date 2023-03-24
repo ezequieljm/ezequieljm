@@ -106,7 +106,13 @@ safediv x y = if y == 0 then Nothing else Just $ div x y
     </a>
 </p>
 
+<p align="left">
 
+<a href="https://www.linkedin.com/in/ezequieljm" target="_blank"><img align="center" src="https://raw.githubusercontent.com/ezequieljm/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ezequieljm/" height="30" width="40" /></a>
+</p>
+<br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ezequieljm&layout=compact&hide=shaderLab,HLSL)](https://github.com/ezequieljm/github-readme-stats)
 
 <!--
 
